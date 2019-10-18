@@ -1,0 +1,19 @@
+.avatar {
+  float: left;
+}
+
+.message-group{
+  display: grid;
+  padding-left: 10px;
+  padding-bottom: 12px;
+}
+
+.from{
+  font-size: 0.8em;
+  padding-top: 5px;
+}
+
+.message{
+  padding-top: 8px;
+  font-size: 1em;
+}
