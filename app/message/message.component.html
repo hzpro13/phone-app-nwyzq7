@@ -4,16 +4,11 @@
   </div>
   <div class="message-group">
     <div class="from">
-      Person A
+      {{author}}
     </div>
-    <div class="message">
-      Sample text
-    </div>
-    <div class="message">
-      Sample text
-    </div>
-    <div class="message">
-      Sample text
+    <div *ngFor='let message of messages'
+      class="message">
+      {{message}}
     </div>
   </div>
 </section>
