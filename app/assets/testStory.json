@@ -1,0 +1,803 @@
+{
+  "creator": "Twine",
+  "creator-version": "2.3.7",
+  "description": "You've been saving up for this vacation for months, finally the trip has come and well... you haven't. You made the mistake of saying it was okay for your wife to bring her friend along and now she seems to be paying more attention to him than you.",
+  "ifid": "ABE58BEC-F855-4CAB-B158-17DA0FF2B26A",
+  "name": "The Vacation with her Bestie",
+  "passages": [
+    {
+      "links": [
+        {
+          "link": "How long are you gonna be?",
+          "long_text": "How long are you gonna be?",
+          "pid": "2",
+          "short_text": "How long are you gonna be?"
+        },
+        {
+          "link": "Sounds good! I'll just relax in our room",
+          "long_text": "Sounds good! I'll just relax in our room",
+          "pid": "3",
+          "short_text": "Sounds good! I'll just relax in our room"
+        }
+      ],
+      "name": "Untitled Passage",
+      "pid": "1",
+      "position": {
+        "x": "178",
+        "y": "383.5"
+      },
+      "text": [
+        "Hey sweetie! Are you checked into our room yet?",
+        "Mark and I are gonna stay down by the pool for a bit, this place has one of those swim up bars, it's so cool!!"
+      ]
+    },
+    {
+      "links": [
+        {
+          "link": "Of course, I'm glad you're still friends",
+          "long_text": "As long as he's not flirting with you it's fine!",
+          "pid": "4",
+          "short_text": "As long as he's not flirting with you it's fine!"
+        },
+        {
+          "link": "How has Mark's love life been lately?",
+          "long_text": "How has Mark's love life been lately?",
+          "pid": "5",
+          "short_text": "How has Mark's love life been lately?"
+        }
+      ],
+      "name": "How long are you gonna be?",
+      "pid": "2",
+      "position": {
+        "x": "398",
+        "y": "451.5"
+      },
+      "text": [
+        "Oh not long!",
+        "I just wanna hop in the pool and soak up some sun before it gets dark.",
+        "Plus someone needs to keep an eye on Mark, he's such a flirt with everyone haha."
+      ]
+    },
+    {
+      "links": [
+        {
+          "link": "Of course, I'm glad you're still friends",
+          "long_text": "Of course, I'm glad you're still friends",
+          "pid": "4",
+          "short_text": "Of course, I'm glad you're still friends"
+        },
+        {
+          "link": "Of course, I'm glad you're still friends",
+          "long_text": "Well, it is a little weird honestly",
+          "pid": "4",
+          "short_text": "Well, it is a little weird honestly"
+        }
+      ],
+      "name": "Sounds good! I'll just relax in our room",
+      "pid": "3",
+      "position": {
+        "x": "347",
+        "y": "209.5"
+      },
+      "text": [
+        "Sounds good baby.",
+        "I really appreciate that you're okay with Mark coming along for our vacation.",
+        "I think a lot of husbands would feel weird about his wife's ex coming, but it's really nice that you respect my friendship with him."
+      ]
+    },
+    {
+      "links": [
+        {
+          "link": "How has Mark's love life been lately?",
+          "long_text": "What have you been talking about with him?",
+          "pid": "5",
+          "short_text": "What have you been talking about with him?"
+        },
+        {
+          "link": "You're not going to be wearing that tiny bikini you brought around him, are you?",
+          "long_text": "You're not going to be wearing that tiny bikini you brought around him, are you?",
+          "pid": "6",
+          "short_text": "You're not going to be wearing that tiny bikini you brought around him, are you?"
+        }
+      ],
+      "name": "Of course, I'm glad you're still friends",
+      "pid": "4",
+      "position": {
+        "x": "691",
+        "y": "426.5"
+      },
+      "text": [
+        "Haha, yeah, remember we're just good friends.",
+        "He totally understands that there's no longer any romantic connection between us.",
+        "He's always been really respectful of that :)",
+        "Plus, I'm sure he wouldn't dare hit on a married woman, that's just rude."
+      ]
+    },
+    {
+      "links": [
+        {
+          "link": "Satisfied how?",
+          "long_text": "Satisfied how?",
+          "pid": "10",
+          "short_text": "Satisfied how?"
+        },
+        {
+          "link": "Satisfied how?",
+          "long_text": "How many dates did they go on?",
+          "pid": "10",
+          "short_text": "How many dates did they go on?"
+        }
+      ],
+      "name": "How has Mark's love life been lately?",
+      "pid": "5",
+      "position": {
+        "x": "783",
+        "y": "209.5"
+      },
+      "text": [
+        "Oh you know haha",
+        "He was telling me about all the girls he's seeing.",
+        "Did I ever tell you how I wingman'd him with Macy after we broke up?",
+        "I was like look, he's incredible, just not for me haha",
+        "I heard back from Macy that she was VERY satisified with their dates, so i'm glad I helped"
+      ]
+    },
+    {
+      "links": [
+        {
+          "link": "I mean... it's pretty revealing, didn't you bring another suit?]",
+          "long_text": "I thought you said you'd only wear it around me in our pool",
+          "pid": "7",
+          "short_text": "I thought you said you'd only wear it around me in our pool"
+        },
+        {
+          "link": "I mean... it's pretty revealing, didn't you bring another suit?",
+          "long_text": "I mean... it's pretty revealing, didn't you bring another suit?",
+          "pid": "7",
+          "short_text": "I mean... it's pretty revealing, didn't you bring another suit?"
+        }
+      ],
+      "name": "You're not going to be wearing that tiny bikini you brought around him, are you?",
+      "pid": "6",
+      "position": {
+        "x": "870",
+        "y": "396.5"
+      },
+      "text": [
+        "Well would you rather I just skinny dip?"
+      ]
+    },
+    {
+      "links": [
+        {
+          "link": "No, no it's okay, have fun",
+          "long_text": "No, no it's okay, have fun",
+          "pid": "8",
+          "short_text": "No, no it's okay, have fun"
+        },
+        {
+          "link": "I would prefer if you didn't wear it around him",
+          "long_text": "I would prefer if you didn't wear it around him",
+          "pid": "9",
+          "short_text": "I would prefer if you didn't wear it around him"
+        }
+      ],
+      "name": "I mean... it's pretty revealing, didn't you bring another suit?",
+      "pid": "7",
+      "position": {
+        "x": "1059",
+        "y": "373.5"
+      },
+      "text": [
+        "I can't find my one piece :(",
+        "I can just stay out of the pool if you really want."
+      ]
+    },
+    {
+      "links": [
+        {
+          "link": "You really enjoyed him, huh?",
+          "long_text": "What do you mean?",
+          "pid": "12",
+          "short_text": "What do you mean?"
+        },
+        {
+          "link": "I can't believe you're joking about fucking him",
+          "long_text": "I can't believe you're joking about fucking him",
+          "pid": "13",
+          "short_text": "I can't believe you're joking about fucking him"
+        }
+      ],
+      "name": "No, no it's okay, have fun",
+      "pid": "8",
+      "position": {
+        "x": "1466",
+        "y": "255.5"
+      },
+      "text": [
+        "Thank you baby, I knew you'd understand.",
+        "If I catch him looking at me, I'll make sure he gets reminded that my husband is right upstairs hehe",
+        "I'm sure he and I will have a really nice time, just not.. ya know.. nice in the way it used to be."
+      ]
+    },
+    {
+      "links": [
+        {
+          "link": "No, no it's okay, have fun",
+          "long_text": "Yeah... I guess that's fine",
+          "pid": "8",
+          "short_text": "Yeah... I guess that's fine"
+        },
+        {
+          "link": "No, no it's okay, have fun",
+          "long_text": "You can just wear the suit, it's fine",
+          "pid": "8",
+          "short_text": "You can just wear the suit, it's fine"
+        }
+      ],
+      "name": "I would prefer if you didn't wear it around him",
+      "pid": "9",
+      "position": {
+        "x": "1319",
+        "y": "444.5"
+      },
+      "text": [
+        ":| uhh, I'm sorry, I'm kinda already wearing it. ",
+        "I'll put my cover-up back on though, okay?"
+      ]
+    },
+    {
+      "links": [
+        {
+          "link": "No, no it's okay, have fun",
+          "long_text": "Well anyway, have fun, see you in a bit",
+          "pid": "8",
+          "short_text": "Well anyway, have fun, see you in a bit"
+        },
+        {
+          "link": "Was the sex with him particularly good?",
+          "long_text": "Was the sex with him particularly good?",
+          "pid": "11",
+          "short_text": "Was the sex with him particularly good?"
+        }
+      ],
+      "name": "Satisfied how?",
+      "pid": "10",
+      "position": {
+        "x": "1055",
+        "y": "210.5"
+      },
+      "text": [
+        "Well she told me they hung out a bunch",
+        "I'm not sure if you'd consider them \"dates\"",
+        "But... he's... very skilled baby hehe",
+        "I knew Macy would have a good time if they got together",
+        "I was just glad she didn't think it was weird since him and I used to date."
+      ]
+    },
+    {
+      "links": [
+        {
+          "link": "No, no it's okay, have fun",
+          "long_text": "Well, enjoy hanging out, but remember you're a married woman",
+          "pid": "8",
+          "short_text": "Well, enjoy hanging out, but remember you're a married woman"
+        },
+        {
+          "link": "You really enjoyed him, huh?",
+          "long_text": "You really enjoyed him, huh?",
+          "pid": "12",
+          "short_text": "You really enjoyed him, huh?"
+        }
+      ],
+      "name": "Was the sex with him particularly good?",
+      "pid": "11",
+      "position": {
+        "x": "1321",
+        "y": "70.5"
+      },
+      "text": [
+        "Well... I mean, idk",
+        "I don't want to compare, you two are very different people if that's what you're asking",
+        "He was always pretty passionate though, which was fun.",
+        "Once he set his mind on something, you couldn't get in his way.",
+        "I'm sorry, I don't mean YOU you, just ya know, an expression."
+      ]
+    },
+    {
+      "links": [
+        {
+          "link": "I was just drunk, it isn't fun in real life",
+          "long_text": "I'd prefer if you didn't talk about him any more",
+          "pid": "14",
+          "short_text": "I'd prefer if you didn't talk about him any more"
+        },
+        {
+          "link": "I guess.. that's hot",
+          "long_text": "Well... tell me some more",
+          "pid": "15",
+          "short_text": "Well... tell me some more"
+        }
+      ],
+      "name": "You really enjoyed him, huh?",
+      "pid": "12",
+      "position": {
+        "x": "1655",
+        "y": "119.5"
+      },
+      "text": [
+        "I mean... honestly he was great.",
+        "I love you baby, but you know you're a little... well little.",
+        "Mark is so big and strong. It was just a totally different experience with him.",
+        "I could go on... if you wanted to hear more."
+      ]
+    },
+    {
+      "links": [
+        {
+          "link": "I was just drunk, it isn't fun in real life",
+          "long_text": "I was just drunk, it isn't fun in real life",
+          "pid": "14",
+          "short_text": "I was just drunk, it isn't fun in real life"
+        },
+        {
+          "link": "I guess.. that's hot",
+          "long_text": "I guess.. that's hot",
+          "pid": "15",
+          "short_text": "I guess.. that's hot"
+        }
+      ],
+      "name": "I can't believe you're joking about fucking him",
+      "pid": "13",
+      "position": {
+        "x": "1703",
+        "y": "367.5"
+      },
+      "text": [
+        "Calm down, baby, I'm just playing.",
+        "Are we just going to pretend you never got drunk and told me allll about all your fantasies about me and him?",
+        "I know you want to hear about how I can see his buldge through his wet swim trunks, don't you?"
+      ]
+    },
+    {
+      "links": [
+        {
+          "link": "I should just come down to the pool",
+          "long_text": "I should just come to the pool",
+          "pid": "17",
+          "short_text": "I should just come to the pool"
+        },
+        {
+          "link": "It's a little humiliating, yeah",
+          "long_text": "Ugh, I want to hear, it's just hard",
+          "pid": "16",
+          "short_text": "Ugh, I want to hear, it's just hard"
+        }
+      ],
+      "name": "I was just drunk, it isn't fun in real life",
+      "pid": "14",
+      "position": {
+        "x": "1929",
+        "y": "145.5"
+      },
+      "text": [
+        "Oh... so I shouldn't tell you about how good he looks shirtless in the pool?",
+        "You don't want to hear about how looking at his body makes your wife's pussy wet?",
+        "We don't have to talk about it if you're not interested baby."
+      ]
+    },
+    {
+      "links": [
+        {
+          "link": "It's a little humiliating, yeah",
+          "long_text": "It's a little humiliating, yeah",
+          "pid": "16",
+          "short_text": "It's a little humiliating, yeah"
+        },
+        {
+          "link": "I should just come down to the pool",
+          "long_text": "I should just come down to the pool",
+          "pid": "17",
+          "short_text": "I should just come down to the pool"
+        }
+      ],
+      "name": "I guess.. that's hot",
+      "pid": "15",
+      "position": {
+        "x": "1937",
+        "y": "367.5"
+      },
+      "text": [
+        "Well if you think that's hot you're going to love to hear this.",
+        "I uh...",
+        "Well, actually, nevermind, I'll tell you later, it's a little embarassing.",
+        "But, I'm curious are you embarassed? ",
+        "I mean you're sitting up in the hotel room while your wife is at the pool his this stud. ",
+        "I feel like that's a little embarassing, isn't it?"
+      ]
+    },
+    {
+      "links": [
+        {
+          "link": "Do you still think Mark is hot?",
+          "long_text": "Do you still think Mark is hot?",
+          "pid": "19",
+          "short_text": "Do you still think Mark is hot?"
+        },
+        {
+          "link": "It's hot.",
+          "long_text": "Would you still have sex with Mark?",
+          "pid": "22",
+          "short_text": "Would you still have sex with Mark?"
+        },
+        {
+          "link": "Don't you feel bad telling me all this?",
+          "long_text": "Don't you feel bad telling me all this?",
+          "pid": "20",
+          "short_text": "Don't you feel bad telling me all this?"
+        },
+        {
+          "link": "I'm so hard, I can't think of a question",
+          "long_text": "I'm so hard, I can't think of a question",
+          "pid": "21",
+          "short_text": "I'm so hard, I can't think of a question"
+        }
+      ],
+      "name": "It's a little humiliating, yeah",
+      "pid": "16",
+      "position": {
+        "x": "2378",
+        "y": "208.5"
+      },
+      "text": [
+        "I know baby, it must be so frustrating to think about your gorgeous wife, basically naked in her tiny bikini sitting talking to her ex.",
+        "Do you wonder what exactly we'll be talking about?",
+        "Are we talking about you?",
+        "Are you curious if I bite my lip or touch my hair when we make eye contact?",
+        "I bet you have sooo many questions.",
+        "I'll make you a deal, you can ask me whatever you want, but be careful what you ask, because I'm going to be honest hehe",
+        "What do you want to know?"
+      ]
+    },
+    {
+      "links": [
+        {
+          "link": "It's a little humiliating, yeah",
+          "long_text": "I'm not sure I'm okay with that",
+          "pid": "16",
+          "short_text": "I'm not sure I'm okay with that"
+        },
+        {
+          "link": "You can do whatever you want",
+          "long_text": "You can do whatever you want",
+          "pid": "18",
+          "short_text": "You can do whatever you want"
+        }
+      ],
+      "name": "I should just come down to the pool",
+      "pid": "17",
+      "position": {
+        "x": "2173",
+        "y": "72.5"
+      },
+      "text": [
+        "No, you absolutely shouldn't.",
+        "Mark and I need our \"friend\" time",
+        "You promised not to get in the way of our friendship.",
+        "You'll stay up there, in our hotel, until I come back to our room",
+        "Even if that means waiting until tomorrow morning hehe",
+        "Would you mind if I didn't end up in our room tonight?",
+        "Mark and I just have so much to catch up on."
+      ]
+    },
+    {
+      "links": [
+        {
+          "link": "It's a little humiliating, yeah",
+          "long_text": "Yes, I will",
+          "pid": "16",
+          "short_text": "Yes, I will"
+        },
+        {
+          "link": "It's a little humiliating, yeah",
+          "long_text": "I'm not sure I can do that",
+          "pid": "16",
+          "short_text": "I'm not sure I can do that"
+        }
+      ],
+      "name": "You can do whatever you want",
+      "pid": "18",
+      "position": {
+        "x": "2335",
+        "y": "34.5"
+      },
+      "text": [
+        "I know I can :P",
+        "And you'll just stay up in your room like a good boy, right?"
+      ]
+    },
+    {
+      "links": [
+        {
+          "link": "It's hot.",
+          "long_text": "It's hot.",
+          "pid": "22",
+          "short_text": "It's hot."
+        },
+        {
+          "link": "It makes me uncomfortable",
+          "long_text": "It makes me uncomfortable",
+          "pid": "23",
+          "short_text": "It makes me uncomfortable"
+        }
+      ],
+      "name": "Do you still think Mark is hot?",
+      "pid": "19",
+      "position": {
+        "x": "2609",
+        "y": "312.5"
+      },
+      "text": [
+        "Oh absolutely.",
+        "He is BUILT",
+        "I mean there must be 100 people at this pool and he's the most muscular guy here.",
+        "He's probably been to the gym 100x more than you haha",
+        "Is that weird to know?"
+      ]
+    },
+    {
+      "links": [
+        {
+          "link": "It's hot.",
+          "long_text": "It is really hot",
+          "pid": "22",
+          "short_text": "It is really hot"
+        },
+        {
+          "link": "It makes me uncomfortable",
+          "long_text": "It's still a little weird to hear",
+          "pid": "23",
+          "short_text": "It's still a little weird to hear"
+        }
+      ],
+      "name": "Don't you feel bad telling me all this?",
+      "pid": "20",
+      "position": {
+        "x": "2633",
+        "y": "141.5"
+      },
+      "text": [
+        "No baby",
+        "I know you're hard as a rock right now.",
+        "I know your cock is throbbing as you imagine Mark's cock throbbing as he cums and fills your wife's pussy.",
+        "How could I feel bad about making my husband so turned on?"
+      ]
+    },
+    {
+      "links": [
+        {
+          "link": "It's hot.",
+          "long_text": "It's hot.",
+          "pid": "22",
+          "short_text": "It's hot."
+        },
+        {
+          "link": "It makes me uncomfortable",
+          "long_text": "It makes me uncomfortable",
+          "pid": "23",
+          "short_text": "It makes me uncomfortable"
+        }
+      ],
+      "name": "I'm so hard, I can't think of a question",
+      "pid": "21",
+      "position": {
+        "x": "2644",
+        "y": "13.5"
+      },
+      "text": [
+        "Awww sweetie, this just goes straight to your head, doesn't it?",
+        "Well I'll just tell you some fun facts then.",
+        "1. Mark is the only guy I've let fuck my ass.",
+        "2. Mark has the thickest cock of any guy I've been with",
+        "3. Mark was the first guy to choke me in bed hehe",
+        "How does it feel to know that?"
+      ]
+    },
+    {
+      "links": [
+        {
+          "link": "Yes, I want to hear",
+          "long_text": "Honestly... yes",
+          "pid": "24",
+          "short_text": "Honestly... yes"
+        },
+        {
+          "link": "It makes me uncomfortable",
+          "long_text": "I'm not sure... but maybe we could work up to it?",
+          "pid": "23",
+          "short_text": "I'm not sure... but maybe we could work up to it?"
+        }
+      ],
+      "name": "It's hot.",
+      "pid": "22",
+      "position": {
+        "x": "2851",
+        "y": "245.5"
+      },
+      "text": [
+        "Hehehe, relax baby.",
+        "I know this whole situation really excites you.",
+        "I mean, I thought it was weird when you suggested we invite him on our vacation, but it's starting to make sense.",
+        "You want me to fuck him this week, don't you?"
+      ]
+    },
+    {
+      "links": [
+        {
+          "link": "Yes, I want to hear",
+          "long_text": "Yes, I want to hear",
+          "pid": "24",
+          "short_text": "Yes, I want to hear"
+        },
+        {
+          "link": "Yes, I want to hear",
+          "long_text": "Okay, I hope it's not bad.",
+          "pid": "24",
+          "short_text": "Okay, I hope it's not bad."
+        }
+      ],
+      "name": "It makes me uncomfortable",
+      "pid": "23",
+      "position": {
+        "x": "2986",
+        "y": "57.5"
+      },
+      "text": [
+        "Hehehe, I'm sorry, did I take our game too far?",
+        "I can slow down.",
+        "Can I tell you what happened like 30 minutes ago? I promise you'll like it."
+      ]
+    },
+    {
+      "links": [
+        {
+          "link": "He saw you naked, wtf?",
+          "long_text": "He saw you naked, wtf?",
+          "pid": "25",
+          "short_text": "He saw you naked, wtf?"
+        },
+        {
+          "link": "He saw you naked, wtf?",
+          "long_text": "You saw him naked, wtf?",
+          "pid": "25",
+          "short_text": "You saw him naked, wtf?"
+        }
+      ],
+      "name": "Yes, I want to hear",
+      "pid": "24",
+      "position": {
+        "x": "3037",
+        "y": "195.5"
+      },
+      "text": [
+        "Okay well let me just say, I didn't touch him, nothing happened.",
+        "We didn't kiss or anything so please don't worry.",
+        "When we went down to the pool, we went to the changing rooms and well.. there was only one stall free.",
+        "I said he couch change first, but he kinda smirked and suggested we go change together.",
+        "I thought it was pretty ridiculous, but I thought about it, he's seen it all before, right?",
+        "He's seen it from LITERALLY every angle hah",
+        "So I thought it was fine."
+      ]
+    },
+    {
+      "links": [
+        {
+          "link": "So that was it?",
+          "long_text": "So that was it?",
+          "pid": "26",
+          "short_text": "So that was it?"
+        },
+        {
+          "link": "So that was it",
+          "long_text": "You just looked at each other?",
+          "pid": "26",
+          "short_text": "You just looked at each other?"
+        }
+      ],
+      "name": "He saw you naked, wtf?",
+      "pid": "25",
+      "position": {
+        "x": "3215",
+        "y": "115.5"
+      },
+      "text": [
+        "Well... we saw each other naked.",
+        "But like I said, NOTHING happened.",
+        "Okay I didn't touch him, but he saw me and got hard.",
+        "I forgot how good his cock looked.",
+        "I was just standing there, looking at his perfect muscular body.",
+        "He was a total gentleman, he didn't try to touch me or make any move.",
+        "I just stared as his cock got rock hard. ",
+        "He didn't even touch it, just seeing my naked body got him that excited.",
+        "Maybe he was thinking of all the things he used to do to me when we were dating."
+      ]
+    },
+    {
+      "links": [
+        {
+          "link": "Then what happened?",
+          "long_text": "Then what happened?",
+          "pid": "27",
+          "short_text": "Then what happened?"
+        },
+        {
+          "link": "Then what happened?",
+          "long_text": "You sucked him off?",
+          "pid": "27",
+          "short_text": "You sucked him off?"
+        }
+      ],
+      "name": "So that was it?",
+      "pid": "26",
+      "position": {
+        "x": "3359",
+        "y": "242.5"
+      },
+      "text": [
+        "Well.. again, we didn't touch, but I just felt so bad.",
+        "We were going to the pool!",
+        "Was he supposed to walk around, hard as a rock??",
+        "I was VERY clear though",
+        "I told him you and I hadn't talked about this",
+        "I said he could do whatever he wanted, but we couldn't touch.",
+        "He asked me to kneel in front of him, so I did."
+      ]
+    },
+    {
+      "links": [
+        {
+          "link": "What happened then?",
+          "long_text": "What happened then?",
+          "pid": "28",
+          "short_text": "What happened then?"
+        }
+      ],
+      "name": "Then what happened?",
+      "pid": "27",
+      "position": {
+        "x": "3491",
+        "y": "109.5"
+      },
+      "text": [
+        "Again, we didn't touch!",
+        "I just talked to him as he stroked his cock.",
+        "We talked about you a little.",
+        "I told him he fucked me better than you do.",
+        "I told him you'd still kiss me tonight, even if he came all over my face.",
+        "Even if my lips were dripping with his cum, you'd still love me.",
+        "I think he really liked hearing that.",
+        "He shot a massive load on my face.",
+        "I got totally caught up in the moment.",
+        "After he came I was like omg did anyone hear?? My face was covered in his cum and I didn't even have a towel or anything!"
+      ]
+    },
+    {
+      "name": "What happened then?",
+      "pid": "28",
+      "position": {
+        "x": "3661",
+        "y": "186.5"
+      },
+      "text": [
+        "Well we got dressed.",
+        "I didn't have anything to wipe off my face with, so I just left the changing room LOL",
+        "I tried to get to the pool as fast as possible and I just jumped in to wash off. I know that's so silly.",
+        "I hope no one saw my face, it's so embarassing.",
+        "Speaking of embarassing, can you believe you were concerned about him seeing me in my bikini 10 minutes ago?",
+        "You're so cute.",
+        "Anyway, I'm gonna hang out with Mark for awhile, have fun in the hotel, I'll talk to you later <3"
+      ]
+    }
+  ],
+  "startnode": "1"
+}
